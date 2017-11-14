@@ -22,5 +22,7 @@ Ginseng paper: https://drive.google.com/open?id=1PVom_eaF1Dv42Ko6hGCdGFT1qNjpjol
 
 Contact
 -------
-Eli.Hundia@gmail.com
-https://elihu.000webhostapp.com/
+Mail: Eli.Hundia@gmail.com
+
+
+Web: https://elihu.000webhostapp.com/
