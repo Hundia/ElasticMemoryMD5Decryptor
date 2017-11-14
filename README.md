@@ -1,9 +1,7 @@
 # ElasticMemoryMD5Decryptor
 Authors
 -------
-Eli Hundia
-Shay Kedar
-Lior Neumann
+Eli Hundia (Eli.Hundia@gmail.com), Shay Kedar, Lior Neumann.
 
 Introduction
 ------------
